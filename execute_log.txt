@@ -1,0 +1,1005 @@
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/bin/python3.12 /Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/multi_bind.py -f c2e_sn_list.txt 
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+🛠️ 正在处理第 1/100 个SN: C2E2DA110044592
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044592 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:09:35] 📌 列表查询：✅ SN: C2E2DA110044592 已出现在设备列表
+
+🛠️ 正在处理第 2/100 个SN: C2E2DA110044593
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044593 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:09:38] 📌 列表查询：✅ SN: C2E2DA110044593 已出现在设备列表
+
+🛠️ 正在处理第 3/100 个SN: C2E2DA110044594
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044594 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:09:40] 📌 列表查询：✅ SN: C2E2DA110044594 已出现在设备列表
+
+🛠️ 正在处理第 4/100 个SN: C2E2DA110044595
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044595 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:09:42] 📌 列表查询：✅ SN: C2E2DA110044595 已出现在设备列表
+
+🛠️ 正在处理第 5/100 个SN: C2E2DA110044596
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044596 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:09:44] 📌 列表查询：✅ SN: C2E2DA110044596 已出现在设备列表
+
+🛠️ 正在处理第 6/100 个SN: C2E2DA110044597
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044597 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:09:45] 📌 列表查询：✅ SN: C2E2DA110044597 已出现在设备列表
+
+🛠️ 正在处理第 7/100 个SN: C2E2DA110044598
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044598 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:09:47] 📌 列表查询：✅ SN: C2E2DA110044598 已出现在设备列表
+
+🛠️ 正在处理第 8/100 个SN: C2E2DA110044599
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044599 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:09:49] 📌 列表查询：✅ SN: C2E2DA110044599 已出现在设备列表
+
+🛠️ 正在处理第 9/100 个SN: C2E2DA110044600
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044600 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:09:50] 📌 列表查询：✅ SN: C2E2DA110044600 已出现在设备列表
+
+🛠️ 正在处理第 10/100 个SN: C2E2DA110044601
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044601 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:09:52] 📌 列表查询：✅ SN: C2E2DA110044601 已出现在设备列表
+
+🛠️ 正在处理第 11/100 个SN: C2E2DA110044602
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044602 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:09:54] 📌 列表查询：✅ SN: C2E2DA110044602 已出现在设备列表
+
+🛠️ 正在处理第 12/100 个SN: C2E2DA110044603
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044603 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:09:56] 📌 列表查询：✅ SN: C2E2DA110044603 已出现在设备列表
+
+🛠️ 正在处理第 13/100 个SN: C2E2DA110044604
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044604 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:09:58] 📌 列表查询：✅ SN: C2E2DA110044604 已出现在设备列表
+
+🛠️ 正在处理第 14/100 个SN: C2E2DA110044605
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044605 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:09:59] 📌 列表查询：✅ SN: C2E2DA110044605 已出现在设备列表
+
+🛠️ 正在处理第 15/100 个SN: C2E2DA110044606
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044606 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:01] 📌 列表查询：✅ SN: C2E2DA110044606 已出现在设备列表
+
+🛠️ 正在处理第 16/100 个SN: C2E2DA110044607
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044607 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:03] 📌 列表查询：✅ SN: C2E2DA110044607 已出现在设备列表
+
+🛠️ 正在处理第 17/100 个SN: C2E2DA110044608
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044608 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:05] 📌 列表查询：✅ SN: C2E2DA110044608 已出现在设备列表
+
+🛠️ 正在处理第 18/100 个SN: C2E2DA110044609
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044609 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:07] 📌 列表查询：✅ SN: C2E2DA110044609 已出现在设备列表
+
+🛠️ 正在处理第 19/100 个SN: C2E2DA110044610
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044610 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:09] 📌 列表查询：✅ SN: C2E2DA110044610 已出现在设备列表
+
+🛠️ 正在处理第 20/100 个SN: C2E2DA110044611
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044611 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:10] 📌 列表查询：✅ SN: C2E2DA110044611 已出现在设备列表
+
+🛠️ 正在处理第 21/100 个SN: C2E2DA110044612
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044612 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:12] 📌 列表查询：✅ SN: C2E2DA110044612 已出现在设备列表
+
+🛠️ 正在处理第 22/100 个SN: C2E2DA110044613
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044613 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:14] 📌 列表查询：✅ SN: C2E2DA110044613 已出现在设备列表
+
+🛠️ 正在处理第 23/100 个SN: C2E2DA110044614
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044614 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:16] 📌 列表查询：✅ SN: C2E2DA110044614 已出现在设备列表
+
+🛠️ 正在处理第 24/100 个SN: C2E2DA110044615
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044615 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:17] 📌 列表查询：✅ SN: C2E2DA110044615 已出现在设备列表
+
+🛠️ 正在处理第 25/100 个SN: C2E2DA110044616
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044616 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:20] 📌 列表查询：✅ SN: C2E2DA110044616 已出现在设备列表
+
+🛠️ 正在处理第 26/100 个SN: C2E2DA110044617
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044617 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:22] 📌 列表查询：✅ SN: C2E2DA110044617 已出现在设备列表
+
+🛠️ 正在处理第 27/100 个SN: C2E2DA110044618
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044618 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:23] 📌 列表查询：✅ SN: C2E2DA110044618 已出现在设备列表
+
+🛠️ 正在处理第 28/100 个SN: C2E2DA110044619
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044619 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:25] 📌 列表查询：✅ SN: C2E2DA110044619 已出现在设备列表
+
+🛠️ 正在处理第 29/100 个SN: C2E2DA110044620
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044620 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:27] 📌 列表查询：✅ SN: C2E2DA110044620 已出现在设备列表
+
+🛠️ 正在处理第 30/100 个SN: C2E2DA110044621
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044621 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:29] 📌 列表查询：✅ SN: C2E2DA110044621 已出现在设备列表
+
+🛠️ 正在处理第 31/100 个SN: C2E2DA110044622
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044622 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:31] 📌 列表查询：✅ SN: C2E2DA110044622 已出现在设备列表
+
+🛠️ 正在处理第 32/100 个SN: C2E2DA110044623
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044623 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:33] 📌 列表查询：✅ SN: C2E2DA110044623 已出现在设备列表
+
+🛠️ 正在处理第 33/100 个SN: C2E2DA110044624
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044624 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:35] 📌 列表查询：✅ SN: C2E2DA110044624 已出现在设备列表
+
+🛠️ 正在处理第 34/100 个SN: C2E2DA110044625
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044625 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:37] 📌 列表查询：✅ SN: C2E2DA110044625 已出现在设备列表
+
+🛠️ 正在处理第 35/100 个SN: C2E2DA110044626
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044626 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:39] 📌 列表查询：✅ SN: C2E2DA110044626 已出现在设备列表
+
+🛠️ 正在处理第 36/100 个SN: C2E2DA110044627
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044627 绑定成功
+[10:10:41] 📌 列表查询：✅ SN: C2E2DA110044627 已出现在设备列表
+
+🛠️ 正在处理第 37/100 个SN: C2E2DA110044628
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044628 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:42] 📌 列表查询：✅ SN: C2E2DA110044628 已出现在设备列表
+
+🛠️ 正在处理第 38/100 个SN: C2E2DA110044629
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044629 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:45] 📌 列表查询：✅ SN: C2E2DA110044629 已出现在设备列表
+
+🛠️ 正在处理第 39/100 个SN: C2E2DA110044630
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044630 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:47] 📌 列表查询：✅ SN: C2E2DA110044630 已出现在设备列表
+
+🛠️ 正在处理第 40/100 个SN: C2E2DA110044631
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044631 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:48] 📌 列表查询：✅ SN: C2E2DA110044631 已出现在设备列表
+
+🛠️ 正在处理第 41/100 个SN: C2E2DA110044632
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044632 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:50] 📌 列表查询：✅ SN: C2E2DA110044632 已出现在设备列表
+
+🛠️ 正在处理第 42/100 个SN: C2E2DA110044633
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044633 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:52] 📌 列表查询：✅ SN: C2E2DA110044633 已出现在设备列表
+
+🛠️ 正在处理第 43/100 个SN: C2E2DA110044634
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044634 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:54] 📌 列表查询：✅ SN: C2E2DA110044634 已出现在设备列表
+
+🛠️ 正在处理第 44/100 个SN: C2E2DA110044635
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044635 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:56] 📌 列表查询：✅ SN: C2E2DA110044635 已出现在设备列表
+
+🛠️ 正在处理第 45/100 个SN: C2E2DA110044636
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044636 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:58] 📌 列表查询：✅ SN: C2E2DA110044636 已出现在设备列表
+
+🛠️ 正在处理第 46/100 个SN: C2E2DA110044637
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044637 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:10:59] 📌 列表查询：✅ SN: C2E2DA110044637 已出现在设备列表
+
+🛠️ 正在处理第 47/100 个SN: C2E2DA110044638
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044638 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:01] 📌 列表查询：✅ SN: C2E2DA110044638 已出现在设备列表
+
+🛠️ 正在处理第 48/100 个SN: C2E2DA110044639
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044639 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:04] 📌 列表查询：✅ SN: C2E2DA110044639 已出现在设备列表
+
+🛠️ 正在处理第 49/100 个SN: C2E2DA110044640
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044640 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:06] 📌 列表查询：✅ SN: C2E2DA110044640 已出现在设备列表
+
+🛠️ 正在处理第 50/100 个SN: C2E2DA110044641
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044641 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:08] 📌 列表查询：✅ SN: C2E2DA110044641 已出现在设备列表
+
+🛠️ 正在处理第 51/100 个SN: C2E2DA110044642
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044642 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:11] 📌 列表查询：✅ SN: C2E2DA110044642 已出现在设备列表
+
+🛠️ 正在处理第 52/100 个SN: C2E2DA110044643
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044643 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:13] 📌 列表查询：✅ SN: C2E2DA110044643 已出现在设备列表
+
+🛠️ 正在处理第 53/100 个SN: C2E2DA110044644
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044644 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:14] 📌 列表查询：✅ SN: C2E2DA110044644 已出现在设备列表
+
+🛠️ 正在处理第 54/100 个SN: C2E2DA110044645
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044645 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:16] 📌 列表查询：✅ SN: C2E2DA110044645 已出现在设备列表
+
+🛠️ 正在处理第 55/100 个SN: C2E2DA110044646
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044646 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:18] 📌 列表查询：✅ SN: C2E2DA110044646 已出现在设备列表
+
+🛠️ 正在处理第 56/100 个SN: C2E2DA110044647
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044647 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:20] 📌 列表查询：✅ SN: C2E2DA110044647 已出现在设备列表
+
+🛠️ 正在处理第 57/100 个SN: C2E2DA110044648
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044648 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:22] 📌 列表查询：✅ SN: C2E2DA110044648 已出现在设备列表
+
+🛠️ 正在处理第 58/100 个SN: C2E2DA110044649
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044649 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:24] 📌 列表查询：✅ SN: C2E2DA110044649 已出现在设备列表
+
+🛠️ 正在处理第 59/100 个SN: C2E2DA110044650
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044650 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:25] 📌 列表查询：✅ SN: C2E2DA110044650 已出现在设备列表
+
+🛠️ 正在处理第 60/100 个SN: C2E2DA110044651
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044651 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:27] 📌 列表查询：✅ SN: C2E2DA110044651 已出现在设备列表
+
+🛠️ 正在处理第 61/100 个SN: C2E2DA110044652
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044652 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:29] 📌 列表查询：✅ SN: C2E2DA110044652 已出现在设备列表
+
+🛠️ 正在处理第 62/100 个SN: C2E2DA110044653
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044653 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:31] 📌 列表查询：✅ SN: C2E2DA110044653 已出现在设备列表
+
+🛠️ 正在处理第 63/100 个SN: C2E2DA110044654
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044654 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:33] 📌 列表查询：✅ SN: C2E2DA110044654 已出现在设备列表
+
+🛠️ 正在处理第 64/100 个SN: C2E2DA110044655
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044655 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:35] 📌 列表查询：✅ SN: C2E2DA110044655 已出现在设备列表
+
+🛠️ 正在处理第 65/100 个SN: C2E2DA110044656
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044656 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:37] 📌 列表查询：✅ SN: C2E2DA110044656 已出现在设备列表
+
+🛠️ 正在处理第 66/100 个SN: C2E2DA110044657
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044657 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:39] 📌 列表查询：✅ SN: C2E2DA110044657 已出现在设备列表
+
+🛠️ 正在处理第 67/100 个SN: C2E2DA110044658
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044658 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:41] 📌 列表查询：✅ SN: C2E2DA110044658 已出现在设备列表
+
+🛠️ 正在处理第 68/100 个SN: C2E2DA110044659
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044659 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:43] 📌 列表查询：✅ SN: C2E2DA110044659 已出现在设备列表
+
+🛠️ 正在处理第 69/100 个SN: C2E2DA110044660
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044660 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:45] 📌 列表查询：✅ SN: C2E2DA110044660 已出现在设备列表
+
+🛠️ 正在处理第 70/100 个SN: C2E2DA110044661
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044661 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:47] 📌 列表查询：✅ SN: C2E2DA110044661 已出现在设备列表
+
+🛠️ 正在处理第 71/100 个SN: C2E2DA110044662
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044662 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:49] 📌 列表查询：✅ SN: C2E2DA110044662 已出现在设备列表
+
+🛠️ 正在处理第 72/100 个SN: C2E2DA110044663
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044663 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:51] 📌 列表查询：✅ SN: C2E2DA110044663 已出现在设备列表
+
+🛠️ 正在处理第 73/100 个SN: C2E2DA110044664
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044664 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:54] 📌 列表查询：✅ SN: C2E2DA110044664 已出现在设备列表
+
+🛠️ 正在处理第 74/100 个SN: C2E2DA110044665
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044665 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:56] 📌 列表查询：✅ SN: C2E2DA110044665 已出现在设备列表
+
+🛠️ 正在处理第 75/100 个SN: C2E2DA110044666
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044666 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:11:58] 📌 列表查询：✅ SN: C2E2DA110044666 已出现在设备列表
+
+🛠️ 正在处理第 76/100 个SN: C2E2DA110044667
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044667 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:00] 📌 列表查询：✅ SN: C2E2DA110044667 已出现在设备列表
+
+🛠️ 正在处理第 77/100 个SN: C2E2DA110044668
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044668 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:02] 📌 列表查询：✅ SN: C2E2DA110044668 已出现在设备列表
+
+🛠️ 正在处理第 78/100 个SN: C2E2DA110044669
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044669 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:04] 📌 列表查询：✅ SN: C2E2DA110044669 已出现在设备列表
+
+🛠️ 正在处理第 79/100 个SN: C2E2DA110044670
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044670 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:06] 📌 列表查询：✅ SN: C2E2DA110044670 已出现在设备列表
+
+🛠️ 正在处理第 80/100 个SN: C2E2DA110044671
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044671 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:09] 📌 列表查询：✅ SN: C2E2DA110044671 已出现在设备列表
+
+🛠️ 正在处理第 81/100 个SN: C2E2DA110044672
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044672 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:10] 📌 列表查询：✅ SN: C2E2DA110044672 已出现在设备列表
+
+🛠️ 正在处理第 82/100 个SN: C2E2DA110044673
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044673 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:12] 📌 列表查询：✅ SN: C2E2DA110044673 已出现在设备列表
+
+🛠️ 正在处理第 83/100 个SN: C2E2DA110044674
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044674 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:15] 📌 列表查询：✅ SN: C2E2DA110044674 已出现在设备列表
+
+🛠️ 正在处理第 84/100 个SN: C2E2DA110044675
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044675 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:17] 📌 列表查询：✅ SN: C2E2DA110044675 已出现在设备列表
+
+🛠️ 正在处理第 85/100 个SN: C2E2DA110044676
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044676 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:19] 📌 列表查询：✅ SN: C2E2DA110044676 已出现在设备列表
+
+🛠️ 正在处理第 86/100 个SN: C2E2DA110044677
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044677 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:21] 📌 列表查询：✅ SN: C2E2DA110044677 已出现在设备列表
+
+🛠️ 正在处理第 87/100 个SN: C2E2DA110044678
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044678 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:23] 📌 列表查询：✅ SN: C2E2DA110044678 已出现在设备列表
+
+🛠️ 正在处理第 88/100 个SN: C2E2DA110044679
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044679 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:25] 📌 列表查询：✅ SN: C2E2DA110044679 已出现在设备列表
+
+🛠️ 正在处理第 89/100 个SN: C2E2DA110044680
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044680 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:26] 📌 列表查询：✅ SN: C2E2DA110044680 已出现在设备列表
+
+🛠️ 正在处理第 90/100 个SN: C2E2DA110044681
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044681 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:29] 📌 列表查询：✅ SN: C2E2DA110044681 已出现在设备列表
+
+🛠️ 正在处理第 91/100 个SN: C2E2DA110044682
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044682 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:30] 📌 列表查询：✅ SN: C2E2DA110044682 已出现在设备列表
+
+🛠️ 正在处理第 92/100 个SN: C2E2DA110044683
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044683 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:32] 📌 列表查询：✅ SN: C2E2DA110044683 已出现在设备列表
+
+🛠️ 正在处理第 93/100 个SN: C2E2DA110044684
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044684 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:34] 📌 列表查询：✅ SN: C2E2DA110044684 已出现在设备列表
+
+🛠️ 正在处理第 94/100 个SN: C2E2DA110044685
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044685 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:37] 📌 列表查询：✅ SN: C2E2DA110044685 已出现在设备列表
+
+🛠️ 正在处理第 95/100 个SN: C2E2DA110044686
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044686 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:39] 📌 列表查询：✅ SN: C2E2DA110044686 已出现在设备列表
+
+🛠️ 正在处理第 96/100 个SN: C2E2DA110044687
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044687 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:40] 📌 列表查询：✅ SN: C2E2DA110044687 已出现在设备列表
+
+🛠️ 正在处理第 97/100 个SN: C2E2DA110044688
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044688 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:43] 📌 列表查询：✅ SN: C2E2DA110044688 已出现在设备列表
+
+🛠️ 正在处理第 98/100 个SN: C2E2DA110044689
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044689 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:45] 📌 列表查询：✅ SN: C2E2DA110044689 已出现在设备列表
+
+🛠️ 正在处理第 99/100 个SN: C2E2DA110044690
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044690 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:47] 📌 列表查询：✅ SN: C2E2DA110044690 已出现在设备列表
+
+🛠️ 正在处理第 100/100 个SN: C2E2DA110044691
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.fm.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+📌 绑定接口：✅ SN: C2E2DA110044691 绑定成功
+/Users/testmanzhang/PycharmProjects/multi_process_launch_viewer/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-test-cn.aosulife.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+[10:12:50] 📌 列表查询：✅ SN: C2E2DA110044691 已出现在设备列表
+
+Process finished with exit code 0
