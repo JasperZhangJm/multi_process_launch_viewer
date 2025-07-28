@@ -1,0 +1,2 @@
+# multi_process_launch_viewer
+python实现分布式并发启动多台ec2上的shell脚本
